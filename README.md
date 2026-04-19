@@ -26,6 +26,7 @@ I'm a Computer Engineering student passionate about building things and figuring
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
@@ -33,18 +34,20 @@ I'm a Computer Engineering student passionate about building things and figuring
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Project Name](https://github.com/yourusername/repo) | Short description of what it does | Python, etc. |
-| [Project Name](https://github.com/yourusername/repo) | Short description of what it does | C++, etc. |
-| [Project Name](https://github.com/yourusername/repo) | Short description of what it does | JavaScript, etc. |
+| [codelens](https://github.com/nabeelahmedkab1r/codelens) | Static analysis tool that builds control-flow graphs and explains loop behavior | Python |
+| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | Real-time tracker for the International Space Station | JavaScript |
+| [ai-code-debugger](https://github.com/nabeelahmedkab1r/ai-code-debugger) | AI-powered code debugging tool | Python |
+| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | Space exploration web project | HTML |
+| [evocars](https://github.com/nabeelahmedkab1r/evocars) | Python project exploring electric vehicles | Python |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmedkab1r&show_icons=true&theme=default&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmedkab1r&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
