@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nabeel Ahmed Kabir 👋</h1>
+<h1 align="center">Hi, I'm Nabeel Ahmed Kabir :)</h1>
 
 <p align="center">
   🎓 Computer Engineering Student &nbsp;|&nbsp; 🛠️ Builder in Progress &nbsp;|&nbsp; 🌐 Open to Opportunities
