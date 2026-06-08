@@ -48,9 +48,9 @@
 ### `// stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmedkab1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NabeelAhmedKab1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmedkab1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelAhmedKab1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
 </div>
 
 <div align="center">
