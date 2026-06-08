@@ -13,7 +13,7 @@ I'm a Computer Engineering student passionate about building things and figuring
 - 🔭 Currently working on personal and course projects
 - 🌱 Learning and growing across multiple languages and domains
 - 💡 Open to collaborating, contributing, and connecting
-- 📫 Reach me at: **[your email or LinkedIn URL here]**
+- 📫 Reach me at: **https://www.linkedin.com/in/nabeelahmedkabir/**
 
 ---
 
