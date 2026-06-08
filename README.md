@@ -10,7 +10,7 @@
 
 ---
 
-``````// about```
+### `// about`
 
 🔭 &nbsp;building things that work  
 🌱 &nbsp;exploring everything from low-level systems to web dev  
@@ -19,7 +19,7 @@
 
 ---
 
-`````// stack```
+### `// stack`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58a6ff)
@@ -32,7 +32,7 @@
 
 ---
 
-````// projects```
+### `// projects`
 
 | name | what it does | tech |
 |------|-------------|------|
@@ -44,7 +44,7 @@
 
 ---
 
-```// stats```
+### `// stats`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmedkab1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
@@ -57,8 +57,3 @@
 </div>
 
 <div align="center"><sub>always learning. always building.</sub></div>
-```
-
----
-
-The ` ```// about``` ` bits render as inline code blocks in GitHub markdown which gives it that terminal label look. Just paste the whole thing into your `README.md` and commit — should work immediately!
