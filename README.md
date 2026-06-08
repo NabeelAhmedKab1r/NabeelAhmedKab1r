@@ -1,57 +1,64 @@
-<h1 align="center">Hi, I'm Nabeel Ahmed Kabir :)</h1>
+<div align="center">
 
-<p align="center">
-  🎓 Computer Engineering Student &nbsp;|&nbsp; 🛠️ Builder in Progress &nbsp;|&nbsp; 🌐 Open to Opportunities
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E+Nabeel+Ahmed+Kabir;Computer+Engineering+Student;Builder+in+Progress)
 
----
+<p>computer engineering student &nbsp;·&nbsp; builder &nbsp;·&nbsp; toronto</p>
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=nabeelahmedkab1r&style=flat-square&color=58a6ff)
 
-I'm a Computer Engineering student passionate about building things and figuring out how they work. I'm exploring different areas of the field — from low-level systems to web development — and picking up new skills along the way.
-
-- 🔭 Currently working on personal and course projects
-- 🌱 Learning and growing across multiple languages and domains
-- 💡 Open to collaborating, contributing, and connecting
-- 📫 Reach me at: **https://www.linkedin.com/in/nabeelahmedkabir/**
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+``````// about```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=intel&logoColor=white)
+🔭 &nbsp;building things that work  
+🌱 &nbsp;exploring everything from low-level systems to web dev  
+⚡ &nbsp;open to collaborations and opportunities  
+📫 &nbsp;[linkedin/nabeelahmedkabir](https://www.linkedin.com/in/nabeelahmedkabir/)
 
 ---
 
-## 📌 Featured Projects
+`````// stack```
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [codelens](https://github.com/nabeelahmedkab1r/codelens) | Static analysis tool that builds control-flow graphs and explains loop behavior | Python |
-| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | Real-time tracker for the International Space Station | JavaScript |
-| [ai-code-debugger](https://github.com/nabeelahmedkab1r/ai-code-debugger) | AI-powered code debugging tool | Python |
-| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | Space exploration web project | HTML |
-| [evocars](https://github.com/nabeelahmedkab1r/evocars) | Python project exploring electric vehicles | Python |
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=58a6ff)
+![Verilog](https://img.shields.io/badge/Verilog-0d1117?style=flat-square&logo=intel&logoColor=58a6ff)
 
 ---
 
-## 📊 GitHub Stats
+````// projects```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmedkab1r&show_icons=true&theme=default&hide_border=true" height="160"/>
+| name | what it does | tech |
+|------|-------------|------|
+| [codelens](https://github.com/nabeelahmedkab1r/codelens) | builds control-flow graphs + explains loop behavior | Python |
+| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | real-time International Space Station tracker | JavaScript |
+| [ai-code-debugger](https://github.com/nabeelahmedkab1r/ai-code-debugger) | AI-powered debugging tool | Python |
+| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | space exploration web project | HTML |
+| [evocars](https://github.com/nabeelahmedkab1r/evocars) | electric vehicle data explorer | Python |
+
+---
+
+```// stats```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeelahmedkab1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmedkab1r&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmedkab1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nabeelahmedkab1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+</div>
+
+<div align="center"><sub>always learning. always building.</sub></div>
+```
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+The ` ```// about``` ` bits render as inline code blocks in GitHub markdown which gives it that terminal label look. Just paste the whole thing into your `README.md` and commit — should work immediately!
