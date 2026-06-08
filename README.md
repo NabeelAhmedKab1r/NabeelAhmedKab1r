@@ -36,13 +36,14 @@
 
 | name | what it does | tech |
 |------|-------------|------|
-| [codelens](https://github.com/nabeelahmedkab1r/codelens) | builds control-flow graphs + explains loop behavior | Python |
-| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | real-time International Space Station tracker | JavaScript |
-| [ai-code-debugger](https://github.com/nabeelahmedkab1r/ai-code-debugger) | AI-powered debugging tool | Python |
-| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | space exploration web project | HTML |
 | [evocars](https://github.com/nabeelahmedkab1r/evocars) | electric vehicle data explorer | Python |
+| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | real-time International Space Station tracker | JavaScript |
+| [SnakeGame-FPGA-Project](https://github.com/NabeelAhmedKab1r/SnakeGame-FPGA-Project) | Snake game on FPGA hardware w/ VGA display | Verilog |
+| [studyplanner](https://github.com/NabeelAhmedKab1r/studyplanner) | study session planner and tracker | Python |
+| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | space exploration web project | HTML |
 
 ---
+
 
 ### `// stats`
 
