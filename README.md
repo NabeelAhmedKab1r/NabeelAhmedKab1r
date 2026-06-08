@@ -48,13 +48,9 @@
 ### `// stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabeelAhmedKab1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelAhmedKab1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NabeelAhmedKab1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nabeelahmedkab1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabeelAhmedKab1r&theme=github_dark" />
 </div>
-
-<div align="center"><sub>always learning. always building.</sub></div>
