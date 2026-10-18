@@ -1,56 +1,14 @@
-<div align="center">
+### Hi there! <sub><img src="./wave.svg" height="24" /></sub>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E+Nabeel+Ahmed+Kabir;Computer+Engineering+Student;Builder+in+Progress)
+I'm **Nabeel**, a computer engineering student at York University in Toronto.
 
-<p>computer engineering student &nbsp;·&nbsp; builder &nbsp;·&nbsp; toronto</p>
+Most recently I was an AI software developer intern at **Cotriply**, helping take an AI-powered group travel platform from prototype to MVP. I broke 6,000-line files down into modular TypeScript, built the real-time email notification system, and set up their staging environment.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nabeelahmedkab1r&style=flat-square&color=58a6ff)
+I like building things that sit close to the system. Lately that's been a fault-tolerant **distributed task queue** in Go and Redis, Snake running entirely in hardware on an [FPGA](https://github.com/NabeelAhmedKab1r/SnakeGame-FPGA-Project), and an [evolutionary AI racer](https://github.com/NabeelAhmedKab1r/evocars) where neural-net drivers teach themselves to race. I also placed 3rd at a defence-tech hackathon by building an autonomous drone that navigates with computer vision, with no GPS and no human input.
 
-</div>
+I mostly work in Python, Go, TypeScript, Java and C, and I'm always up for a hard problem.
 
----
+**Let's connect!**
 
-### `// about`
-
-🔭 &nbsp;building things that work  
-🌱 &nbsp;exploring everything from low-level systems to web dev  
-⚡ &nbsp;open to collaborations and opportunities  
-📫 &nbsp;[linkedin/nabeelahmedkabir](https://www.linkedin.com/in/nabeelahmedkabir/)
-
----
-
-### `// stack`
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58a6ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=58a6ff)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=58a6ff)
-![Verilog](https://img.shields.io/badge/Verilog-0d1117?style=flat-square&logo=intel&logoColor=58a6ff)
-
----
-
-### `// projects`
-
-| name | what it does | tech |
-|------|-------------|------|
-| [evocars](https://github.com/nabeelahmedkab1r/evocars) | electric vehicle data explorer | Python |
-| [ISS-tracker](https://github.com/nabeelahmedkab1r/ISS-tracker) | real-time International Space Station tracker | JavaScript |
-| [SnakeGame-FPGA-Project](https://github.com/NabeelAhmedKab1r/SnakeGame-FPGA-Project) | Snake game on FPGA hardware w/ VGA display | Verilog |
-| [studyplanner](https://github.com/NabeelAhmedKab1r/studyplanner) | study session planner and tracker | Python |
-| [space-explorer](https://github.com/nabeelahmedkab1r/space-explorer) | space exploration web project | HTML |
-
----
-
-
-### `// stats`
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NabeelAhmedKab1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabeelAhmedKab1r&theme=github_dark" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nabeelahmedkabir.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelahmedkabir/)
